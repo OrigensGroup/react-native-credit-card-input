@@ -1,8 +1,8 @@
 {
-  "name": "react-native-library-tsdx",
+  "name": "@origens/react-native-credit-card-input",
   "version": "0.1.0",
   "main": "dist/index.js",
-  "module": "dist/react-native-library-tsdx.esm.js",
+  "module": "dist/react-native-credit-card-input.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
